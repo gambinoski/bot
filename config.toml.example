@@ -1,0 +1,11 @@
+[bot]
+token=""
+prefix="l!"
+admins=693500651157717062
+
+[database]
+host="127.0.0.1"
+port=5432
+username="init"
+password="init"
+database="bot"
